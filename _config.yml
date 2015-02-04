@@ -1,0 +1,13 @@
+# Site settings
+title: Calibrating Neural Network
+email: feliciousx@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Personal blog for @FeliciousX . He blogs about random things that
+    he finds useful to keep for future reference because he's forgetful like that.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://feliciousx.github.io" # the base hostname & protocol for your site
+twitter_username: feliciousx
+github_username:  feliciousx
+
+# Build settings
+markdown: kramdown
