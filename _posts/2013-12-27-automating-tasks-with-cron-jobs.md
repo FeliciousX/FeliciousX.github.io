@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Automating Tasks with Cron Jobs"
 description: "Learning how to use Cron Jobs from scratch."
 category: "Tutorial"
@@ -60,8 +59,7 @@ It's a range of number from 0 to 7.
 
 Notice that 0 and 7 both means Sunday. Hence you don't need to worry which number is for Sunday and just know that 1 means Monday and count from that. *Easy peasy*
 
-Good news! There's shortcuts for you -laz- efficient people!
-####[Source][1]
+Good news! There's shortcuts for you -laz- efficient people! [Source][1]
 
 | Special string |	Meaning  |
 | :------------- | :-------- |

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Scheduling Tasks with Anacron on Fedora"
 description: "Running tasks anachronistically"
 category: "Tutorial"

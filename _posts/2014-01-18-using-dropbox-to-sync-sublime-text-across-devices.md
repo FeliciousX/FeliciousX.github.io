@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using Dropbox to sync Sublime Text across devices"
 description: ""
 category: ""
@@ -23,6 +22,7 @@ To avoid disaster, you should exit Sublime Text before proceeding.
 Remember, other than Sublime Text 3, you need 2 more things to make this work.
 
 ![Symbolic Link][5]
+
 1. [Symbolic Link][4] (your OS most likely have it)
 2. [Dropbox][6] (or something similar but I've only tried it with Dropbox so far)
 
@@ -92,7 +92,7 @@ For more similar tutorials, here's a few links:
 [2]: http://elijames.org/ "Eli James"
 [3]: https://sublime.wbond.net/ "Package Control for Sublime"
 [4]: http://en.wikipedia.org/wiki/Symbolic_link "Symlink"
-[5]: /assets/img/2014-01-18/Symbolic_Link.png "Symbolic Link :P"
+[5]: {{ site.url }}/assets/img/2014-01-18/Symbolic_Link.png "Symbolic Link :P"
 [6]: https://db.tt/qCezKKw "Dropbox"
 [7]: http://misfoc.us/post/18018400006/syncing-sublime-text-2-settings-via-dropbox "misfoc.us"
 [8]: http://www.alexconrad.org/2013/07/sync-sublime-text-3-settings-with.html "Alex Conrad"

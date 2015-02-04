@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Merry Christmas"
 description: "First post ever!"
 category: Blog
